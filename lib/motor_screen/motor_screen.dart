@@ -59,11 +59,11 @@ class _MotorScreenState extends State<MotorScreen> {
     return ElevatedButton(
       onPressed: () {
         setState(() {
-          motorService.gpio16OutputLevel(true);
+          motorService.gpio16OutputLevel(false);
         });
       },
       child: const Text(
-        'GPIO16 High Motor Off',
+        'GPIO16 Low Motor On',
         style: TextStyle(fontSize: 50.0),
       ),
     );
@@ -74,11 +74,11 @@ class _MotorScreenState extends State<MotorScreen> {
     return ElevatedButton(
       onPressed: () {
         setState(() {
-          motorService.gpio16OutputLevel(false);
+          motorService.gpio16OutputLevel(true);
         });
       },
       child: const Text(
-        'GPIO16 Low Motor On',
+        'GPIO16 High Motor Off',
         style: TextStyle(fontSize: 50.0),
       ),
     );
