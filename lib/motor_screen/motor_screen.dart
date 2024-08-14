@@ -12,7 +12,7 @@ class MotorScreen extends StatefulWidget {
 
 class _MotorScreenState extends State<MotorScreen> {
   //TODO: Create an instance of the MotorService class
-final MotorService motorService = MotorService();
+  final MotorService motorService = MotorService();
   //TODO: Call the initGpio16Output method in the initState method
   @override
   void initState() {
@@ -53,6 +53,7 @@ final MotorService motorService = MotorService();
       ),
     );
   }
+
 //TODO: Create the getElevatedButtonMotorOn method
   Widget getElevatedButtonMotorOn() {
     return ElevatedButton(
@@ -62,11 +63,12 @@ final MotorService motorService = MotorService();
         });
       },
       child: const Text(
-        'GPIO16 High Motor On',
+        'GPIO16 High Motor Off',
         style: TextStyle(fontSize: 50.0),
       ),
     );
   }
+
 //TODO: Create the getElevatedButtonMotorOff method
   Widget getElevatedButtonMotorOff() {
     return ElevatedButton(
@@ -76,7 +78,7 @@ final MotorService motorService = MotorService();
         });
       },
       child: const Text(
-        'GPIO16 Low Motor Off',
+        'GPIO16 Low Motor On',
         style: TextStyle(fontSize: 50.0),
       ),
     );

@@ -1,0 +1,14 @@
+/home/bob/Documents/FlutterEmbeddedEssentials/udemy_motor_gpio_final/build/linux/arm64/debug/CMakeFiles/install/strip.dir
+/home/bob/Documents/FlutterEmbeddedEssentials/udemy_motor_gpio_final/build/linux/arm64/debug/CMakeFiles/install/local.dir
+/home/bob/Documents/FlutterEmbeddedEssentials/udemy_motor_gpio_final/build/linux/arm64/debug/CMakeFiles/install.dir
+/home/bob/Documents/FlutterEmbeddedEssentials/udemy_motor_gpio_final/build/linux/arm64/debug/CMakeFiles/list_install_components.dir
+/home/bob/Documents/FlutterEmbeddedEssentials/udemy_motor_gpio_final/build/linux/arm64/debug/CMakeFiles/rebuild_cache.dir
+/home/bob/Documents/FlutterEmbeddedEssentials/udemy_motor_gpio_final/build/linux/arm64/debug/CMakeFiles/edit_cache.dir
+/home/bob/Documents/FlutterEmbeddedEssentials/udemy_motor_gpio_final/build/linux/arm64/debug/CMakeFiles/udemy_led_gpio.dir
+/home/bob/Documents/FlutterEmbeddedEssentials/udemy_motor_gpio_final/build/linux/arm64/debug/flutter/CMakeFiles/install/strip.dir
+/home/bob/Documents/FlutterEmbeddedEssentials/udemy_motor_gpio_final/build/linux/arm64/debug/flutter/CMakeFiles/install/local.dir
+/home/bob/Documents/FlutterEmbeddedEssentials/udemy_motor_gpio_final/build/linux/arm64/debug/flutter/CMakeFiles/install.dir
+/home/bob/Documents/FlutterEmbeddedEssentials/udemy_motor_gpio_final/build/linux/arm64/debug/flutter/CMakeFiles/list_install_components.dir
+/home/bob/Documents/FlutterEmbeddedEssentials/udemy_motor_gpio_final/build/linux/arm64/debug/flutter/CMakeFiles/rebuild_cache.dir
+/home/bob/Documents/FlutterEmbeddedEssentials/udemy_motor_gpio_final/build/linux/arm64/debug/flutter/CMakeFiles/edit_cache.dir
+/home/bob/Documents/FlutterEmbeddedEssentials/udemy_motor_gpio_final/build/linux/arm64/debug/flutter/CMakeFiles/flutter_assemble.dir
